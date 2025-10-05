@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "homepage":"https://yagneshhhh.github.io/projects",
+=======
+  "homepage":"https://yagneshhhh.github.io/yagnesh",
+>>>>>>> 003156a (Initial Commit)
   "name": "manga",
   "private": true,
   "version": "0.0.0",
