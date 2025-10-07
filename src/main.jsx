@@ -12,7 +12,7 @@ const router=createBrowserRouter([
     element:<Layout/>,
     children:[
       {
-        path:"/",
+        path:"/ComicCluster",
         element:<Home/>
       },
       {
