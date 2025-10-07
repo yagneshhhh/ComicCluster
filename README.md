@@ -1,4 +1,4 @@
-# 📚 MangaVerse – Manga Browsing App
+# 📚 ComicCluster – Manga Browsing App
 
 ![React](https://img.shields.io/badge/React-18.0+-61DAFB?logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-Build-646CFF?logo=vite&logoColor=white)
