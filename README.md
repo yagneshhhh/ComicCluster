@@ -1,12 +1,40 @@
-# React + Vite
+# 📚 ComicCluster – Manga Browsing App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-18.0+-61DAFB?logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-Build-646CFF?logo=vite&logoColor=white)
+![MangaDex API](https://img.shields.io/badge/MangaDex-API-orange)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-Currently, two official plugins are available:
+A modern web application built using **React + Vite** that allows users to browse, search, and read manga using the **MangaDex API**.  
+The app provides a smooth browsing experience with manga listings, chapter details, image viewers, and more — all through the power of modern frontend tooling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔍 **Search Manga** – Find your favorite manga titles using MangaDex API search filters.  
+- 📖 **Read Chapters** – View chapter lists and read chapters page by page.   
+- 🎨 **Responsive Design** – Fully responsive layout optimized for desktop and mobile.  
+- 🔄 **Dynamic Routing** – Navigate between manga details and chapter pages.
+    
+
+---
+
+## 🧩 Tech Stack
+
+- **Frontend:** React + Vite  
+- **Routing:** React Router DOM  
+- **Styling:** Tailwind CSS / CSS Modules  
+- **API:** [MangaDex API v5](https://api.mangadex.org/docs)  
+- **State Management:** React Hooks / useEffect  
+- **Deployment:** Vercel / Netlify / GitHub Pages  
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yagneshhhh/ComicCluster.git
+cd ComicCluster
