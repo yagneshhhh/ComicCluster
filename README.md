@@ -27,7 +27,7 @@ The app provides a smooth browsing experience with manga listings, chapter detai
 - **Styling:** Tailwind CSS / CSS Modules  
 - **API:** [MangaDex API v5](https://api.mangadex.org/docs)  
 - **State Management:** React Hooks / useEffect  
-- **Deployment:** Vercel / Netlify / GitHub Pages  
+- **Deployment:** Vercel  / GitHub Pages  
 
 ---
 
